@@ -1,0 +1,7 @@
+{
+  "name": "GeoMark AI",
+  "description": "An intelligent map interface that uses Google Gemini to locate, describe, and visualize addresses on Google Maps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
